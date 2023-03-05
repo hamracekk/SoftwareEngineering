@@ -8,7 +8,7 @@ Modul ankety slouží pro vytváření anket mezi studenty, k vyplňování anke
 This section specifies the functional requirements.
 
 ### User requirements
-
+---
 ##### STUDENT:
 1. Jako student chci aby modul vytvářel semestrální ankety hodnotící předměty a jejich výuku.
 v semestrálních anketách hodnotit učitele a předměty, protože chci poskytnout zpětnou vazbu pro budoucí studenty a učitele.
