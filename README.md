@@ -17,7 +17,7 @@ This section specifies the functional requirements.
 - #### Actors
   [Document here all actors from the use case diagrams. Make a subsection for each actor and their short description in each subsection.]
 
-- #### [Actor name]
+- #### Actors:
 1. Students
 1. Teachers
 1. Public
