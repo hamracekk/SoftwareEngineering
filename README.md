@@ -9,7 +9,30 @@ This section specifies the functional requirements.
 
 ### User requirements
 
-1. 
+STUDENT
+Jako student chci:
+1. aby modul vytvářel semestrální ankety hodnotící předměty a jejich výuku.
+v semestrálních anketách hodnotit učitele a předměty, protože chci poskytnout zpětnou vazbu pro budoucí studenty a učitele.
+1. aby u mého hodnocení výuky byly anonymizovány osobní údaje, protože nechci aby případná kritika výuky/přístupu vyučujícího ovlivnila moje budoucí studijní výsledky.
+1. mít možnost vyplňovat ankety vytvořené ostatními uživateli daného modulu anket, z dôvodu verejneho hodnocení a vytvárani statistickeho názoru na danú temu.
+1. prohlížet výsledky semestrálních anket, protože chci znát názory předchozích studentů ohledně výuky předmětu a jeho vyučujících.
+1. hodnotit ankety, jak číselně, tak slovně, protože tak poskytnu detailnější odpověď dalším studentům, které by měli o studium předmětu zájem.
+1. aby výsledeky číselného hodnocení anket byly prezentovány v podobě různých agregovaných statistických ukazatelů spočítaných na základě těchto výsledků, z duvodu priehladneho a rýchleho poskytnutia releavntných a užitočných udajov uživatelom modulu.
+1. aby výsledky slovního hodnocení anket byly prezentovány jako seznam těchto výsledků, protože chceme aby výsledky boli prezentované v priehľadnom, relevantnom a uživatelsky priatelnom formate.
+1. +? vytvářet vlastní (studentské) ankety, týkající se pro mě relevantních témat, např. získat doplňující informace ohledně výuky, které jsem se nedozvěděl v semestrálních anketách.
+1. meniť nimi vytvorené ankety, z dôvodu ak by pri tvorbe ankety došlo k chybe, alebo z dôvodu inej nutnosti zmeny ankety.
+uzatvárať ankety, z dôvodu nutnosti predčasného uzatváraní ankiet
+---
+UČITEL
+1. Jako učitel potřebuji vytvářet ankety pro studenty mých předmětů, abych dostal zpětnou vazbu k otázkám relevantním k výuce.
+1. Jako učitel ale chci aby zůstali výsledky mých anket skryté pro veřejnost, protože se jedná o interní fungování předmětu.
+1. Jako učitel potřebuji prohlížet a reagovat na hodnocení k výuce mých předmětů, protože se chci obhájit/poděkovat za konstruktivní kritiku.
+1. Jako učitel potřebuji prohlížet výsledky semestrálních anket, protože chci znát názory studentů ohledně mojí výuky předmětu.
+---
+UŽIVATEL
+1. Jako (veřejný) uživatel chci prohlížet výsledky anket, abych si vytvořil představu o kvalitě výuky předmětů a vyučujících.
+1. Jako uživatel chci prohlížet moje odpovědi na ankety.
+
 
 ### System requirements
 [Document here your system requirements as use case diagrams.]
