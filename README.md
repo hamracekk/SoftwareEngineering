@@ -17,10 +17,9 @@ v semestrálních anketách hodnotit učitele a předměty, protože chci poskyt
 1. Jako student chci prohlížet výsledky semestrálních anket, protože chci znát názory předchozích studentů ohledně výuky předmětu a jeho vyučujících.
 1. Jako student chci hodnotit ankety, jak číselně, tak slovně, protože tak poskytnu detailnější odpověď dalším studentům, které by měli o studium předmětu zájem.
 1. Jako student chci aby výsledeky číselného hodnocení anket byly prezentovány v podobě různých agregovaných statistických ukazatelů spočítaných na základě těchto výsledků, z duvodu priehladneho a rýchleho poskytnutia releavntných a užitočných udajov uživatelom modulu.
-1. Jako student chci aby výsledky slovního hodnocení anket byly prezentovány jako seznam těchto výsledků, protože chceme aby výsledky boli prezentované v priehľadnom, relevantnom a uživatelsky priatelnom formate.
+1. Jako student chci aby výsledky slovního hodnocení anket byly prezentovány jako seznam těchto výsledků, protože chceme aby výsledky byly prezentované v přehledném, relevantním a uživatelsky příjemném formátě.
 1. +? Jako student chci vytvářet vlastní (studentské) ankety, týkající se pro mě relevantních témat, např. získat doplňující informace ohledně výuky, které jsem se nedozvěděl v semestrálních anketách.
-1. Jako student chci meniť mnou vytvorené ankety, z dôvodu ak by pri tvorbe ankety došlo k chybe, alebo z dôvodu inej nutnosti zmeny ankety.
-uzatvárať ankety, z dôvodu nutnosti predčasného uzatváraní ankiet
+1. Jako student chci upravovat mnou vytvorené ankety, kdyby při tvorbě ankety došlo k chybě nebo z jiných důvodů.
 ---
 ##### UČITEL:
 1. Jako učitel potřebuji vytvářet ankety pro studenty mých předmětů, abych dostal zpětnou vazbu k otázkám relevantním k výuce.
