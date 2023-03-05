@@ -8,7 +8,8 @@ Modul ankety slouží pro vytváření anket mezi studenty, k vyplňování anke
 This section specifies the functional requirements.
 
 ### User requirements
-[List of user requirements]
+
+1. 
 
 ### System requirements
 [Document here your system requirements as use case diagrams.]
@@ -17,7 +18,9 @@ This section specifies the functional requirements.
   [Document here all actors from the use case diagrams. Make a subsection for each actor and their short description in each subsection.]
 
 - #### [Actor name]
-[Actor description]
+1. Students
+1. Teachers
+1. Public
 
 - #### Use cases
   [Document here all use cases. Create a subsection for each use case diagram. If you have only one use case diagram, you do not need a special subsection]
